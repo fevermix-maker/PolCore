@@ -12,6 +12,18 @@
       "sha256": "032a4701a036ca90652b5ae8673611b9ad60c7c550a0eb91712da44bb651d71a",
       "apkUrl": "https://github.com/fevermix-maker/PolCore/releases/download/v1.7.28/PolCore_v1.7.28_Distribution.apk",
       "notes": ""
+    },
+    "update": {
+      "packageName": "com.feversound.drivecompat",
+      "channel": "update",
+      "protectionVersion": 2,
+      "versionName": "2.0.38-test",
+      "versionCode": 110,
+      "minSdk": 29,
+      "size": 23689724,
+      "sha256": "d08750b4c15970fba3f4720ead53389035211984ecb0b376bb96b73314e1c25b",
+      "apkUrl": "https://github.com/fevermix-maker/PolCore/releases/download/v2.0.38/PolCore_v2.0.38_Update_Test.apk",
+      "notes": ""
     }
   }
 }
