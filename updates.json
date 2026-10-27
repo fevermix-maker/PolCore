@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "channels": {
+    "distribution": {
+      "packageName": "com.feversound.drivecompat",
+      "channel": "distribution",
+      "protectionVersion": 2,
+      "versionName": "1.7.28",
+      "versionCode": 98,
+      "minSdk": 29,
+      "size": 22460031,
+      "sha256": "032a4701a036ca90652b5ae8673611b9ad60c7c550a0eb91712da44bb651d71a",
+      "apkUrl": "https://github.com/fevermix-maker/PolCore/releases/download/v1.7.28/PolCore_v1.7.28_Distribution.apk",
+      "notes": ""
+    }
+  }
+}
